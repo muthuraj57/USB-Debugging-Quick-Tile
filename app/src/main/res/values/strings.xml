@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">USB Debugging Quick Tile</string>
+    <string name="qt_default">USB Debugging</string>
+    <string name="app_config">USB Debugging Quick Tile Modes</string>
+    <string name="debugging_off">USB Debugging Off</string>
+    <string name="debugging_on">USB Debugging On</string>
+    <string name="toast_no_permission">WRITE_SECURE_SETTINGS permission not granted</string>
+    <string name="toast_changes_saved">Your changes have been saved</string>
+    <string name="message_help">To modify the USB Debugging settings, this app requires the WRITE_SECURE_SETTINGS permission, which can only be granted by ADB:\n\n1. adb shell\n2.pm grant com.muthuraj57.usbdebugging android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="app_info">App info</string>
+    <string name="view_fdroid">View on F-Droid</string>
+    <string name="help">Help</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/radioGroup2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    tools:context=".USBDebuggingConfigActivity">
+
+    <CheckBox
+        android:id="@+id/check_on"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        android:paddingVertical="10dp"
+        android:text="@string/debugging_on" />
+</RadioGroup>
